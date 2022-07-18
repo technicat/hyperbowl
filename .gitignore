@@ -1,0 +1,6 @@
+
+# those hidden OSX files
+.DS_Store
+
+# subversion
+.svn
