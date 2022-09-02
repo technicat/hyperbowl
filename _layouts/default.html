@@ -70,6 +70,11 @@
             href="https://github.com/pages-themes/minimal">Minimal</a>
           theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
         </small></p>
+      {% if site.privacy %}
+      <p><small>
+          {{site.privacy}}
+        </small></p>
+      {% endif %}
     </footer>
   </div>
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
