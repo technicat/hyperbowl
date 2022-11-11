@@ -3,7 +3,7 @@
     <!-- background -->
     <rect width="100%" height="100%" fill="white" />
 
-    <g transform="translate(500 500)" stroke="black" stroke-width="10" fill="white">
+    <g transform="translate(500 500)" stroke="black" stroke-width="20" fill="white">
 
         <!-- box -->
         <rect x="-300" y="-200" width="600" height="600" />

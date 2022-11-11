@@ -3,7 +3,7 @@
     <!-- background -->
     <rect width="100%" height="100%" fill="white" />
 
-    <g transform="translate(500 500)" stroke="black" stroke-width="10" fill="white">
+    <g transform="translate(500 500)" stroke="black" stroke-width="20" fill="white">
 
         <!-- down arrow -->
         <line x1="0" y1="-400" x2="0" y2="400" />
