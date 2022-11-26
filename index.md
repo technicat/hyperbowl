@@ -1,4 +1,6 @@
-[![hyperbowl high seas](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+On the [App Store]((https://apps.apple.com/us/app/hyperbowl/id344209253)) and [Steam](https://store.steampowered.com/app/847530/HyperBowl/)
+
+[![hyperbowl high seas](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 
 [![hyperbowl steam review](/images/hyperbowl/steam/steam-2022-11-23.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl steam review](/images/hyperbowl/steam/steam-2022-10-16.png)](https://store.steampowered.com/app/847530/HyperBowl/)
